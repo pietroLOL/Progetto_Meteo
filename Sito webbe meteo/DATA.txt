@@ -1,0 +1,2 @@
+Temp,Humidity,Wind_direzione
+15.4,80,44

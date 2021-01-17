@@ -1,0 +1,27 @@
+body{
+    background-color: darkseagreen;
+}
+h1{
+    font-size:200%;
+    text-align:center;
+    padding-top: 1.5%;
+    color:floralwhite;
+}
+.titolo{
+    height: 100px;
+    width: 100%;
+    background-color: darkgreen;
+}
+table{
+    text-align: center;
+    width: 80%;
+    background-color: aquamarine;
+}
+th{
+    width:10%;
+    height: 5%;
+}
+.tabella{
+    margin-left: 10%;
+    width:100%;
+}
